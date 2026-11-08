@@ -1,6 +1,5 @@
 # app-dev
 My first repository.
-
 # 🎬 My Favorite Series: Arcane
 
 > *"When people look up to you, you don't get to back down."* — Vi
@@ -31,4 +30,4 @@ My first repository.
 
 ### 🌐 Useful Links
 * Learn more on [IMDb](https://www.imdb.com/title/tt11126994/)
-* Watch on [Netflix](https://www.netflix.com/title/81435684)
+* Watch on [Netflix](https://www.netflix.com/title/81435684)B
